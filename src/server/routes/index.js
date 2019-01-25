@@ -4,4 +4,3 @@ const dashboard = require('./dashboard');
 router.use('/', dashboard);
 
 module.exports = router;
-
